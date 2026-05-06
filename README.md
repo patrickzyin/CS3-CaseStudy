@@ -9,4 +9,5 @@ A CSV that contains a cleaned dataset of previous SOTU speeches can be found in 
 
 ## References
 Gregorian, D. (2019, February 4). What the text of Trump's State of the Union reveals and how it compares to FDR and Obama. NBC News. https://www.nbcnews.com/news/us-news/state-union-text-analysis-trump-fdr-obama-n966686 
+
 Rock the Vote, "The State of the Union," Rock the Vote, [Online]. https://www.rockthevote.org/explainers/the-state-of-the-union/.
